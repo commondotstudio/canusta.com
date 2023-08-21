@@ -29,12 +29,12 @@ export default function HeroSection() {
    const titleVariants: Variants = {
       offscreen: {
          opacity: 0,
-         x: -30,
+         y: 30,
          scale: 1,
       },
       onscreen: {
          opacity: 1,
-         x: 0,
+         y: 0,
          scale: 1,
          transition: {
             duration: 2,
@@ -104,7 +104,7 @@ export default function HeroSection() {
                   <div className="absolute left-1/2 top-1/2 z-20 h-fit w-fit -translate-x-1/2 -translate-y-1/2 transform">
                      <motion.div initial="offscreen" animate="onscreen" variants={titleVariants}>
                         <BigVideoTitle>
-                           Soon
+                           soon
                         </BigVideoTitle>
                      </motion.div>
                   </div>
