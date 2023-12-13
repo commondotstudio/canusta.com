@@ -1,0 +1,198 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*import local fonts roobert and tobias*/
+
+:root {
+  --color-foreground: white;
+  --color-background: black;
+  --font-weight-body: 400;
+  --font-size-body: 18px;
+  --line-height-body: 28px;
+  --font-weight-large: 400;
+  --font-size-large: 18px;
+  --line-height-large: 28px;
+  --font-size-h3: 32px;
+  --line-height-h3: 24px;
+  --font-weight-h3: 100;
+  --font-size-giant: 56px;
+  --line-height-giant: 72px;
+  --font-weight-giant: 100;
+  --font-size-label: 11px;
+  --line-height-label: 13px;
+  --font-size-title: 11px;
+  --line-height-title: 13px;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  min-height: 100vh;
+  font-size: var(--font-size-body);
+  line-height: var(--line-height-body);
+  font-weight: var(--font-weight-body);
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--color-foreground);
+  background: var(--color-background);
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* .people::-webkit-scrollbar {
+  height: 10px;
+  width: 2px;
+  background: rgb(95, 95, 95);
+}
+
+.people::-webkit-scrollbar-thumb {
+  background: rgb(31, 31, 31);
+  border-radius: 10px;
+} */
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: black;
+  background: white;
+}
+
+::selection {
+  color: black;
+  background: white;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h3,
+.h3 {
+  font-weight: var(--font-weight-h3);
+  font-size: var(--font-size-h3);
+  line-height: var(--line-height-h3);
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.font-label {
+  font-size: var(--font-size-label);
+  line-height: var(--line-height-label);
+}
+
+.font-giant {
+  font-weight: var(--font-weight-giant);
+  font-size: var(--font-size-giant);
+  line-height: var(--line-height-giant);
+}
+
+/* fix the transition link plugin wrapper overflow situation .tl-edges {
+  overflow: unset;
+} */
+
+ul {
+  list-style: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+}
+
+.scroll-lock {
+  overflow: hidden;
+}
+
+i {
+  font-style: italic;
+  font-family: __tobias_324ab1;
+}
+
+/* form styles */
+
+input {
+  font-size: var(--font-size-body);
+  line-height: var(--line-height-body);
+  font-weight: var(--font-weight-body);
+  color: var(--color-foreground);
+  background: transparent;
+  border-bottom: white 1px solid;
+  outline: none;
+  resize: none;
+}
+
+textarea {
+  font-size: var(--font-size-body);
+  line-height: var(--line-height-body);
+  font-weight: var(--font-weight-body);
+  color: var(--color-foreground);
+  background: transparent;
+  border: white 1px solid;
+  outline: none;
+  resize: none;
+}
+
+input[type="radio"] {
+  appearance: none;
+  background-color: transparent;
+  margin: 0;
+  font: inherit;
+  color: white;
+  width: 1.15em;
+  height: 1.15em;
+  border: 2px solid white;
+  border-radius: 50%;
+  transform: translateY(-0.075em);
+  display: grid;
+  place-content: center;
+}
+
+input[type="radio"]::before {
+  content: "";
+  width: 0.65em;
+  height: 0.65em;
+  border-radius: 50%;
+  transform: scale(0);
+  transition: 120ms transform ease-in-out;
+  box-shadow: inset 1em 1em 1em white;
+}
+
+input[type="radio"]:checked::before {
+  transform: scale(1);
+}
+
+.people::-webkit-scrollbar {
+  height: 5px;
+}
+
+.people::-webkit-scrollbar {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.people::-webkit-scrollbar-thumb {
+  background: #ffffff;
+}
+
+.people::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}

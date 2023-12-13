@@ -1,13 +1,24 @@
-# CanUsta.com  
 
-## installation  
 
-npm install  
-pnpm i  
-npm run build
-pnpm run dev  
+# NPM
 
-## notes  
+npm run dev  
+pnpm dev
 
-Node version 16+  
--
+# PLOP
+
+`plop "Component Name"`  
+
+Three Fiber  
+React Drei - helpers for three fiber
+
+# Geo  
+
+Has three themes:  
+
+- Home  
+- Black Page  
+- White Page
+- Coloured Page  
+
+Theme is changed under `GeoStateController`

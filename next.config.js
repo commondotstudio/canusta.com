@@ -1,10 +1,15 @@
 /** @type {import('next').NextConfig} */
-const withBundleAnalyzer = require('@next/bundle-analyzer')({
-   enabled: process.env.ANALYZE === 'true',
-})
 const nextConfig = {
-   reactStrictMode: true,
-   swcMinify: true,
-}
+  reactStrictMode: true,
+  swcMinify: false,
+  images: {
+    //enter the domain or subdomain where you have WordPress installed
+    domains: [
+      "secure.gravatar.com",
+      "via.placeholder.com",
+      "fom-backend-9sv3ka92jj.common.studio",
+    ],
+  },
+};
 
-module.exports = withBundleAnalyzer(nextConfig)
+module.exports = nextConfig;

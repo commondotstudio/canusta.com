@@ -1,39 +1,39 @@
 {
-   "compilerOptions": {
-      "target": "es5",
-      "lib": ["dom", "dom.iterable", "esnext", "webworker"],
-      "allowJs": true,
-      "noImplicitAny": false,
-      "noImplicitThis": true,
-      "strictNullChecks": true,
-      "strict": true,
-      "forceConsistentCasingInFileNames": true,
-      "noEmit": true,
-      "incremental": true,
-      "esModuleInterop": true,
-      "module": "esnext",
-      "moduleResolution": "node",
-      "resolveJsonModule": true,
-      "isolatedModules": true,
-      "jsx": "preserve",
-      "skipLibCheck": true,
-      "baseUrl": ".",
-      "paths": {
-         "@/~*": ["./*"],
-         "@/components/*": ["components/*"],
-         "@/elements/*": ["components/elements/*"],
-         "@/layouts/*": ["components/layouts/*"],
-         "@/utils/*": ["utils/*"],
-         "@/types/*": ["types/*"],
-         "@/lib/*": ["lib/*"]
-      },
-      "typeRoots": ["./node_modules/@types", "types/misc"],
-      "plugins": [
-         {
-            "name": "next"
-         }
-      ]
-   },
-   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
-   "exclude": ["node_modules", "tailwind.config.js"]
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+
+    "**/*.tsx",
+    "src/pages/_app.jsx",
+    "src/pages/index.tsx",
+    "src/components/Elements/Text.jsx",
+    "src/components/Image/ImageComp.jsx",
+    "src/components/PageHeader/Header.jsx.jsx",
+    "src/components/SiteHeader/SiteHeader.tsx",
+    "src/components/Geo/3/Geo.tsx",
+    "src/utils/transitions.tsx",
+    "src/utils/utils.jsx",
+    "src/components/Forms/EnquireForm.tsx",
+    "src/components/SiteHeader/Menu/MenuMain.jsx"
+  ],
+  "exclude": ["node_modules"]
 }

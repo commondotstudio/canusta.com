@@ -1,0 +1,1026 @@
+[
+  {
+    "name": "A Million Ads",
+    "ticker": "AMA",
+    "cat": "MADTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Action.ai",
+    "ticker": "AAI",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Adhara",
+    "ticker": "AHR",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Ai Build",
+    "ticker": "AIB",
+    "cat": "Industry 4.0",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "AirPortr",
+    "ticker": "APT",
+    "cat": "TravelTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Alt",
+    "ticker": "ALTS",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Apaleo",
+    "ticker": "APA",
+    "cat": "TravelTech",
+    "ceased": "false",
+    "image": "/statics/images/portfolio-az/apoleo.jpg",
+    "firstInvestment": "Seed",
+    "currentStage": "Series B",
+    "description": "Apaleo develops API-first property management software for serviced apartments and hotel chains.",
+    "website": "https://www.apaleo.com/"
+  },
+  {
+    "name": "Aquila Network",
+    "ticker": "AQL",
+    "cat": "FinTech",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Artificial",
+    "ticker": "AIL",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Audit XPRT",
+    "ticker": "AIX",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Banked",
+    "ticker": "BNK",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600",
+    "slug": "banked"
+  },
+  {
+    "name": "Banxware",
+    "ticker": "BXW",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Barte",
+    "ticker": "BRTE",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Beyond",
+    "ticker": "BYN",
+    "cat": "SaaS",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Blockpit",
+    "ticker": "BKT",
+    "cat": "Blockchain",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "BMLL Technologies",
+    "ticker": "BML",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Brooklyn Vendor Assurance",
+    "ticker": "BVA",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "BTP",
+    "ticker": "BTP",
+    "cat": "Blockchain",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Bud",
+    "ticker": "BUD",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Careless",
+    "ticker": "CRLS",
+    "cat": "FinTech",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "CausaLens",
+    "ticker": "CSL",
+    "cat": "FinTech",
+    "image": "https://via.placeholder.com/600",
+    "slug": "causalens"
+  },
+  {
+    "name": "Code Kingdoms",
+    "ticker": "CKD",
+    "cat": "Edtech",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Codec",
+    "ticker": "CDC",
+    "cat": "MADTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Converge",
+    "ticker": "CNV",
+    "cat": "InfrastructureTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Cookoo",
+    "ticker": "CKO",
+    "cat": "Marketplaces",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Craft",
+    "ticker": "CRF",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Crowd Data Systems",
+    "ticker": "OAS",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "CUR8",
+    "ticker": "CUR8",
+    "cat": "Cleantech / Greentech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Curiscope",
+    "ticker": "CRS",
+    "cat": "Video / VR / AR",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Cybertonica",
+    "ticker": "CTC",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Datasine",
+    "ticker": "DTS",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Digital Fineprint",
+    "ticker": "DFP",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Dopay",
+    "ticker": "DPY",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Dream Reality Interactive",
+    "ticker": "DRI",
+    "cat": "Video / VR / AR",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Drover",
+    "ticker": "DRV",
+    "cat": "Marketplaces",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Edozo",
+    "ticker": "EDZ",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Endource",
+    "ticker": "EDR",
+    "cat": "Marketplaces",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Enki",
+    "ticker": "ENK",
+    "cat": "Edtech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Epiphyte",
+    "ticker": "EPI",
+    "cat": "Blockchain",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Evermore",
+    "ticker": "EVM",
+    "cat": "Other",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Exate Technology",
+    "ticker": "EXA",
+    "cat": "Cyber Security",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Expressly",
+    "ticker": "EXP",
+    "cat": "MADTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "FeedStock",
+    "ticker": "FDS",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Felloh",
+    "ticker": "FELL",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Fenestra",
+    "ticker": "FNS",
+    "cat": "Blockchain",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "FindMeCure",
+    "ticker": "FMC",
+    "cat": "HealthTech / MedTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Finway",
+    "ticker": "FNWY",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Fiskl",
+    "ticker": "FSK",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Floww",
+    "ticker": "FLW",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Flux",
+    "ticker": "FLX",
+    "cat": "FinTech",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Forces of Freedom",
+    "ticker": "FOF",
+    "cat": "Video / VR / AR",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Glimpse Protocol",
+    "ticker": "GMP",
+    "cat": "MADTech",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Glisser",
+    "ticker": "GLS",
+    "cat": "SaaS",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Globechain",
+    "ticker": "GLC",
+    "cat": "Marketplaces",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Gojimo",
+    "ticker": "GJM",
+    "cat": "Edtech",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Greendeck",
+    "ticker": "GDK",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Greyparrot",
+    "ticker": "GRP",
+    "cat": "Cleantech / Greentech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Growth Intelligence",
+    "ticker": "GIN",
+    "cat": "MADTech",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "GUARDHOG",
+    "ticker": "GDH",
+    "cat": "Other",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Hammock",
+    "ticker": "HMC",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "HANDS HQ",
+    "ticker": "HHQ",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Hoop",
+    "ticker": "HOP",
+    "cat": "Marketplaces",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "HubBox",
+    "ticker": "HBX",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Huckletree",
+    "ticker": "HKT",
+    "cat": "Marketplaces",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Hummingbird Technologies",
+    "ticker": "HBT",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Huq",
+    "ticker": "HUQ",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "In3",
+    "ticker": "IN3",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Increasingly",
+    "ticker": "ISY",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Intelligent AI",
+    "ticker": "ITA",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Kare",
+    "ticker": "KRE",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Koyo",
+    "ticker": "KYO",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "LandVault",
+    "ticker": "LDVT",
+    "cat": "Video / VR / AR",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Legatics",
+    "ticker": "LGT",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Libryo",
+    "ticker": "LIB",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Mainframe",
+    "ticker": "MNF",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "MeVitae",
+    "ticker": "MVT",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Midrive",
+    "ticker": "MID",
+    "cat": "Marketplaces",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "MobieTrain",
+    "ticker": "MBT",
+    "cat": "Edtech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "ModelDrive",
+    "ticker": "MDD",
+    "cat": "FinTech",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "MONET",
+    "ticker": "MONT",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Moteefe",
+    "ticker": "MTF",
+    "cat": "Marketplaces",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Neotas",
+    "ticker": "NEO",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "NewPath",
+    "ticker": "NWP",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Obsidian",
+    "ticker": "OBS",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Octeract",
+    "ticker": "OCT",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Ometria",
+    "ticker": "OMT",
+    "cat": "MADTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600",
+    "slug": "ometria"
+  },
+  {
+    "name": "Ori Industries",
+    "ticker": "ORI",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Outfund",
+    "ticker": "OTF",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Oxford Medical Simulation",
+    "ticker": "OMS",
+    "cat": "HealthTech / MedTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Oxford VR",
+    "ticker": "OVR",
+    "cat": "HealthTech/MedTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Oxwash",
+    "ticker": "OXW",
+    "cat": "Cleantech/Greentech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Payflow",
+    "ticker": "PFW",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Pelago",
+    "ticker": "PLGO",
+    "cat": "HealthTech/MedTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600",
+    "slug": "pelago"
+  },
+  {
+    "name": "Penfold",
+    "ticker": "PNF",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Picfair",
+    "ticker": "PIC",
+    "cat": "Marketplaces",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Pickr",
+    "ticker": "PKR",
+    "cat": "SaaS",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "PLAYRMAKR",
+    "ticker": "PLY",
+    "cat": "Video / VR / AR",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Poli",
+    "ticker": "POL",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Pomelo Pay",
+    "ticker": "PLP",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "PowerX",
+    "ticker": "PWRX",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "PubX",
+    "ticker": "PBX",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Quikkly",
+    "ticker": "QKL",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Quiver",
+    "ticker": "QUV",
+    "cat": "Other",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Rainbird",
+    "ticker": "RNB",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Recruitment SMART",
+    "ticker": "RST",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Relative Insight",
+    "ticker": "RLI",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Repositive",
+    "ticker": "RPS",
+    "cat": "Biotech",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "RP Platform",
+    "ticker": "RPP",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Scroll Finance",
+    "ticker": "scrll",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Seenit",
+    "ticker": "SNT",
+    "cat": "MADTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Seldon",
+    "ticker": "SLD",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "SenSat",
+    "ticker": "SEN",
+    "cat": "InfrastructureTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Shieldpay",
+    "ticker": "SHP",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Shippr",
+    "ticker": "shpr",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Snap-It",
+    "ticker": "SNP",
+    "cat": "Marketplaces",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Sprinque",
+    "ticker": "SPQ",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "StatusToday",
+    "ticker": "STT",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Stowga",
+    "ticker": "STG",
+    "cat": "Marketplaces",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Sup",
+    "ticker": "SUP",
+    "cat": "Social Media",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "SuperFi",
+    "ticker": "SPFI",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Tangent Works",
+    "ticker": "TGW",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Tech Will Save Us",
+    "ticker": "TWS",
+    "cat": "Edtech",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Tenzo",
+    "ticker": "TNZ",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "The Dots",
+    "ticker": "TDS",
+    "cat": "Social Media",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "The Hire Lab",
+    "ticker": "THL",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "ThingTrax",
+    "ticker": "TTX",
+    "cat": "Industry 4.0",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Togethera",
+    "ticker": "TGT",
+    "cat": "Social Media",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Truly",
+    "ticker": "TRL",
+    "cat": "Other",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "UBIO",
+    "ticker": "UBO",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Upside",
+    "ticker": "USS",
+    "cat": "FinTech",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Velocity Black",
+    "ticker": "VLB",
+    "cat": "Marketplaces",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Veratrak",
+    "ticker": "VRT",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Veridu",
+    "ticker": "VRD",
+    "cat": "Cyber Security",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Vidsy",
+    "ticker": "VDS",
+    "cat": "MADTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "ViewersLogic",
+    "ticker": "VWL",
+    "cat": "MADTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Visii",
+    "ticker": "VSI",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Vizibl",
+    "ticker": "VIZ",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Von Republic",
+    "ticker": "VRP",
+    "cat": "Video / VR / AR",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Warwick Analytics",
+    "ticker": "WWA",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "true",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Weavr",
+    "ticker": "WVR",
+    "cat": "FinTech",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600",
+    "slug": "weavr"
+  },
+  {
+    "name": "What3words",
+    "ticker": "WTW",
+    "cat": "AI / Big Data Analytics",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600",
+    "slug": "what3words"
+  },
+  {
+    "name": "Workscope",
+    "ticker": "HUB",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "YellowDog",
+    "ticker": "YDG",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Zamna",
+    "ticker": "ZMN",
+    "cat": "SaaS",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600"
+  },
+  {
+    "name": "Zencargo",
+    "ticker": "ZEN",
+    "cat": "Marketplaces",
+    "ceased": "false",
+    "image": "https://via.placeholder.com/600",
+    "slug": "zencargo"
+  }
+]
